@@ -6,9 +6,8 @@
 #ifndef _COURSEENROLLSYSTEM_H
 #define _COURSEENROLLSYSTEM_H
 
-class courseEnrollSystem {
+class CourseEnrollSystem {
 public: 
-    void mainFrame;
     void professorFrame;
     void studentFrame;
     

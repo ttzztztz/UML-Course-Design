@@ -6,7 +6,7 @@
 #ifndef _MAINFRAME_H
 #define _MAINFRAME_H
 
-class mainFrame {
+class MainFrame {
 };
 
 #endif //_MAINFRAME_H

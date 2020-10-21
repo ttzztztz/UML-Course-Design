@@ -3,8 +3,8 @@
  */
 
 
-#include "studentFrame.h"
+#include "StudentFrame.h"
 
 /**
- * studentFrame implementation
+ * StudentFrame implementation
  */

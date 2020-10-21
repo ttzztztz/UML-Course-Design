@@ -8,10 +8,11 @@
 
 class Person {
 public: 
-    void name;
-    void uid;
-    void isProfessor;
-    void password;
+    string name;
+    int uid;
+    bool isProfessor;
+    string password;
+    vector<Course> courseList;
     
 void getCourseList();
 };

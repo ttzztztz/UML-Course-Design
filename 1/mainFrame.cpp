@@ -3,8 +3,8 @@
  */
 
 
-#include "mainFrame.h"
+#include "MainFrame.h"
 
 /**
- * mainFrame implementation
+ * MainFrame implementation
  */

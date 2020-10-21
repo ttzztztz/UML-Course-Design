@@ -11,7 +11,6 @@
 
 class Professor: public Person {
 public: 
-    void courseList;
     
 void selectCourse();
     

@@ -6,7 +6,7 @@
 #ifndef _STUDENTFRAME_H
 #define _STUDENTFRAME_H
 
-class studentFrame {
+class StudentFrame {
 };
 
 #endif //_STUDENTFRAME_H

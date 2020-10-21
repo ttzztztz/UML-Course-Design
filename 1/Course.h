@@ -8,11 +8,11 @@
 
 class Course {
 public: 
-    void name;
-    void courseID;
-    void enrollNum;
-    void isOpen;
-    void isSelected;
+    string name;
+    int courseID;
+    int enrollNum;
+    bool isOpen;
+    bool isSelected;
     
 void selectCourse();
     

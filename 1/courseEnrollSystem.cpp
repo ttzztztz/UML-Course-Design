@@ -3,25 +3,25 @@
  */
 
 
-#include "courseEnrollSystem.h"
+#include "CourseEnrollSystem.h"
 
 /**
- * courseEnrollSystem implementation
+ * CourseEnrollSystem implementation
  */
 
 
-void courseEnrollSystem::isOvertime() {
+void CourseEnrollSystem::isOvertime() {
 
 }
 
-void courseEnrollSystem::isConnected() {
+void CourseEnrollSystem::isConnected() {
 
 }
 
-void courseEnrollSystem::isLogin() {
+void CourseEnrollSystem::isLogin() {
 
 }
 
-void courseEnrollSystem::getCourseList() {
+void CourseEnrollSystem::getCourseList() {
 
 }
